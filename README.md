@@ -1,7 +1,7 @@
 🚀 AuraSales AI: Predictive Business Intelligence Console
 AuraSales AI is a high-performance Strategic Decision Support System (SDSS) designed to transform static sales data into actionable, forward-looking intelligence. Built for executives and investors, it bridges the gap between raw data and strategic foresight.
 
-https://aurasalesai.netlify.app ---> Demo
+https://aurasaleai.netlify.app ---> Demo
 
 💎 The Vision
 In an era of market instability, traditional dashboards only offer "hindsight." AuraSales AI provides foresight. By integrating advanced statistical modeling with real-time data visualization, we enable stakeholders to quantify risk and simulate growth before committing capital.
